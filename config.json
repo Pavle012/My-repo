@@ -1,0 +1,7 @@
+{
+  "MC_DIR": "/home/pavle/mc/server",
+  "START_CMD": "./start.sh",
+  "SESSION": "mc",
+  "LOG_FILE": "/home/pavle/mc/api/mc_console.log",
+  "PLUGINS_DIR": "/home/pavle/mc/server/plugins"
+}
