@@ -1,7 +1,7 @@
 {
-  "MC_DIR": "/home/pavle/mc/server",
+  "MC_DIR": "/home/pavle/mcservers/new paper/new paper",
   "START_CMD": "./start.sh",
   "SESSION": "mc",
-  "LOG_FILE": "/home/pavle/mc/api/mc_console.log",
-  "PLUGINS_DIR": "/home/pavle/mc/server/plugins"
+  "LOG_FILE": "/home/pavle/mcservers/api/mc_console.log",
+  "PLUGINS_DIR": "/home/pavle/mcservers/new paper/new paper/plugins"
 }
